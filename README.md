@@ -9,3 +9,7 @@ Written in nodejs backend and the threejs library for graphics. I am learning al
 <br />
 <br />
 I first made the game https://box-fly.herokuapp.com/ in one day and the idea of this game is built on that game.
+
+
+## Keyrsla
+Það þarf að gera ¨npm install¨ í bæði root og client/, það þarf að vera með webpack og svo til að keyra þá er hægt að keyra npm start frá root möppunni.
