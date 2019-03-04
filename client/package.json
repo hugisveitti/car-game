@@ -15,6 +15,7 @@
     "webpack-cli": "^3.2.3"
   },
   "dependencies": {
-    "three": "^0.102.0"
+    "three": "^0.102.0",
+    "three-orbit-controls": "^82.1.0"
   }
 }
