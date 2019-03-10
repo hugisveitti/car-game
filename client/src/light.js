@@ -16,7 +16,7 @@ light2.shadow.mapSize.width = light2.shadow.mapSize.height = 512*2;
 var ambientLight = new THREE.AmbientLight( 0x707070 );
 
 
-var dirLight = new THREE.DirectionalLight( 0xffffff, 1
+var dirLight = new THREE.DirectionalLight( 0xffffff, 1 );
 dirLight.position.set( -10, 18, 5 );
 dirLight.castShadow = true;
 var d = 14;
